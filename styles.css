@@ -8,7 +8,7 @@
 body{
     height: 100vh;
     width: 100%;
-    background-image:linear-gradient(to left,white, rgb(197, 216, 160),ghostwhite);
+background-image:linear-gradient(to left,white, rgb(197, 216, 160),ghostwhite);
    margin: 0;
    padding: 0;
    overflow-x: hidden; 
@@ -399,10 +399,7 @@ input{
         max-width: 100%;
         box-sizing: border-box;
     }
-    .btn{
-        /* margin-left: auto;
-        margin-right: auto; */
-    }
+    
     #technologies{
      margin-right: 0; 
          font-weight: 900; 
@@ -453,10 +450,7 @@ input{
         margin-top:  150px;
         max-width: 100%;
     }
-    .btn{
-        /* margin-left: auto;
-        margin-right: auto; */
-    }
+    
     #technologies{
      margin-right: 0; 
          font-weight: 900; 
